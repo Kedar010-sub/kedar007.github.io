@@ -11,7 +11,7 @@
   <header class="hero">
     <div class="container">
       <h1>Kedar Kothe</h1>
-      <p>Full-Stack Developer | Tech Enthusiast</p>
+      <p>Business Anlyst | Financial Analyst</p>
     </div>
   </header>
 
