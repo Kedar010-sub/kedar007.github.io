@@ -9,7 +9,7 @@
 <body>
   <header>
     <h1>Welcome to My Personal Website</h1>
-    <p>Hi, I'm <strong>Kedar Kothe</strong>. I'm a [Business Analyst].</p>
+    <p>Hi, I'm <strong>Kedar Kothe</strong>. I'm a Business Analyst.</p>
   </header>
 
   <nav>
