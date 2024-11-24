@@ -27,7 +27,7 @@
     <div class="container">
       <h2>About Me</h2>
       <p>
-        👋 Hi, I'm Kedar, a passionate Business Analyst with experiene developed a proven track record of delivering actionable insights, optimizing processes, and driving exceptional results. in Consistently delivered annual savings through data-driven E-commerce strategies.  I enjoy learning new technologies and working on exciting projects.
+        👋 Hi, I'm Kedar, a passionate Business Analyst with a proven track record of delivering actionable insights, optimizing processes, and driving exceptional results. in Consistently delivered annual savings through data-driven E-commerce strategies.  I enjoy learning new technologies and working on exciting projects.
       </p>
     </div>
   </section>
