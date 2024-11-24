@@ -53,15 +53,15 @@
     <div class="container">
       <h2>Contact Me</h2>
       <p>
-        Email: <a href="mailto:viraj@example.com">viraj@example.com</a><br>
-        GitHub: <a href="https://github.com/viraj63" target="_blank">github.com/viraj63</a>
+        Email: <a href="mailto:viraj@example.com">kedar.kothe2008@gmail.com</a><br>
+        GitHub: <a href="https://github.com/kedar010" target="_blank">[(https://github.com/Kedar010-sub)</a>]
       </p>
     </div>
   </section>
 
   <footer class="footer">
     <div class="container">
-      <p>&copy; 2024 Viraj Vhatkar. All rights reserved.</p>
+      <p>&copy; 2024 kedar kothe. All rights reserved.</p>
     </div>
   </footer>
 </body>
