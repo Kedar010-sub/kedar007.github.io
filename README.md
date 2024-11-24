@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 👋 My name is Kedar KOthe!
+ 👋 My name is KeDaR KoThE!
 A Business Analyst student from
 Lewis university
 with a passion for learning & creating.
@@ -15,7 +15,6 @@ with a passion for learning & creating.
 <body>
   <header>
     <h1>Welcome to My Personal Website</h1>
-    <p>Hi, I'm <strong>Kedar Kothe</strong>. I'm a Business Analyst.</p>
   </header>
 
   <nav>
