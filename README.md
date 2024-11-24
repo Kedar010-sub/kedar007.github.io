@@ -54,7 +54,7 @@
       <h2>Contact Me</h2>
       <p>
         Email: <a href="mailto:viraj@example.com">kedar.kothe2008@gmail.com</a><br>
-        GitHub: <a href="[https://github.com/Kedar010-sub]" target="_blank">[[https://github.com/Kedar010-sub</a>]](https://github.com/Kedar010-sub)
+        GitHub: <a href="[https://github.com/Kedar010-sub]" target="_blank">[(https://github.com/Kedar010-sub)]
       </p>
     </div>
   </section>
