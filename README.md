@@ -3,7 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - Portfolio</title>
+ 👋 My name is Kedar KOthe!
+A Business Analyst student from
+Lewis university
+with a passion for learning & creating.
+
+
+ "A well-educated mind will always have more questions than answers" by Helen Keller
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
