@@ -3,48 +3,66 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 👋 My name is KeDaR KoThE!
-A Business Analyst student from
-Lewis university
-with a passion for learning & creating.
-
-
- "A well-educated mind will always have more questions than answers" by Helen Keller
+  <title>Kedar Kothe - Portfolio</title>
   <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <header>
-    <h1>Welcome to My Personal Website</h1>
+  <header class="hero">
+    <div class="container">
+      <h1>Kedar Kothe</h1>
+      <p>Full-Stack Developer | Tech Enthusiast</p>
+    </div>
   </header>
 
-  <nav>
-    <ul>
-      <li><a href="#about">About</a></li>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
+  <nav class="navbar">
+    <div class="container">
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </div>
   </nav>
 
-  <section id="about">
-    <h2>About Me</h2>
-    <p>[Write a brief introduction about yourself.]</p>
+  <section id="about" class="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>
+        👋 Hi, I'm Kedar, a passionate Business Analyst with experiene developed a proven track record of delivering actionable insights, optimizing processes, and driving exceptional results. in Consistently delivered annual savings through data-driven E-commerce strategies.  I enjoy learning new technologies and working on exciting projects.
+      </p>
+    </div>
   </section>
 
-  <section id="projects">
-    <h2>Projects</h2>
-    <ul>
-      <li><a href="https://github.com/yourusername/project1">Project 1</a></li>
-      <li><a href="https://github.com/yourusername/project2">Project 2</a></li>
-    </ul>
+  <section id="projects" class="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <ul>
+        <li>
+          <a href="https://github.com/viraj63/project1" target="_blank">Project 1</a> - A brief description of the project.
+        </li>
+        <li>
+          <a href="https://github.com/viraj63/project2" target="_blank">Project 2</a> - Another brief description.
+        </li>
+        <li>
+          <a href="https://github.com/viraj63/project3" target="_blank">Project 3</a> - Another brief description.
+        </li>
+      </ul>
+    </div>
   </section>
 
-  <section id="contact">
-    <h2>Contact</h2>
-    <p>Feel free to reach out to me at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
+  <section id="contact" class="contact">
+    <div class="container">
+      <h2>Contact Me</h2>
+      <p>
+        Email: <a href="mailto:viraj@example.com">viraj@example.com</a><br>
+        GitHub: <a href="https://github.com/viraj63" target="_blank">github.com/viraj63</a>
+      </p>
+    </div>
   </section>
 
-  <footer>
-    <p>&copy; 2024 Your Name. All rights reserved.</p>
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2024 Viraj Vhatkar. All rights reserved.</p>
+    </div>
   </footer>
 </body>
 </html>
